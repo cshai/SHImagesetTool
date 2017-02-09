@@ -1,6 +1,6 @@
 # SHImagesetTool
 
-使用SHImagesetTool.sh 可以更具ios切图，生成Xcode项目中对应的imageset文件目录
+使用SHImagesetTool.sh 可以根据ios切图，生成Xcode项目中对应的imageset文件目录
 
 ## 一、背景
 
